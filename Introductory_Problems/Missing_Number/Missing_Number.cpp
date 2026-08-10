@@ -15,14 +15,14 @@ int main() {
     int n;
     cin>>n;
     vector<int>v(n-1);
-    for(int i=1;i<n;i++) {
+    for(int i=0;i<n-1;i++) {
         cin>>v[i];
     }
     sort(v.begin(), v.end());
     int ans=v[0];
-    for(int i=0;i<n-1;i++) {
+    for(int i=0;i<n-2   ;i++) {
         if (v[i]+1!=v[i+1]) {
-            ans=v[i]+1;
+             ans=v[i]+1;
             break;
         }
     }
