@@ -7,5 +7,6 @@ My accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), au
 
 | Problem | Category | Solutions |
 | :--- | :--- | :--- |
+| Repetitions | Introductory Problems | [ C++ ](https://github.com/Jatin6280/CSES-SOLUTION/blob/main/Introductory_Problems/Repetitions/Repetitions.cpp) |
 | Missing Number | Introductory Problems | [ C++ ](https://github.com/Jatin6280/CSES-SOLUTION/blob/main/Introductory_Problems/Missing_Number/Missing_Number.cpp) |
 | Weird Algorithm | Introductory Problems | [ C++ ](https://github.com/Jatin6280/CSES-SOLUTION/blob/main/Introductory_Problems/Weird_Algorithm/Weird_Algorithm.cpp) |
