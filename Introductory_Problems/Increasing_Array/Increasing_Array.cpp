@@ -24,7 +24,7 @@ int main() {
         int prev=a[i-1];
         if (current<prev) {
             moves+=prev-current;
-                
+            a[i]=prev;
         }
         cout<<moves<<endl;
         return 0;
