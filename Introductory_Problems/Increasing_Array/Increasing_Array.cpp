@@ -13,20 +13,27 @@ int main() {
     cin.tie(nullptr);
  
     int n;
-    cin>>n;
+    cin >> n;
+ 
     vector<int> a(n);
-    for(int i=0;i<n;i++) {
-        cin>>a[i];
+ 
+    for (int i = 0; i < n; i++) {
+        cin >> a[i];
     }
-    int moves=0;
-    for(int i=1;i<n;i++) {
-        int current=a[i];
-        int prev=a[i-1];
-        if (current<prev) {
-            moves+=prev-current;
-            a[i]=prev;
+ 
+    long long moves = 0;
+ 
+    for (int i = 1; i < n; i++) {
+        int current = a[i];
+        int prev = a[i - 1];
+ 
+        if (current < prev) {
+            moves += prev - current;
+            a[i] = prev;
         }
-        cout<<moves<<endl;
-        return 0;
     }
+ 
+    cout << moves << endl;
+ 
+    return 0;
 }
