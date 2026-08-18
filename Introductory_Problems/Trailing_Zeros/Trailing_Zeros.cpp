@@ -2,7 +2,7 @@
  * Problem Name: Trailing_Zeros
  * Language: C++
  * Category: Introductory_Problems
- * Date: 2026-08-17
+ * Date: 2026-08-18
  */
 
   #include <iostream>
