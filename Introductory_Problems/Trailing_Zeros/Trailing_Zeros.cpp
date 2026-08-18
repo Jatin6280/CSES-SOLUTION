@@ -5,13 +5,21 @@
  * Date: 2026-08-18
  */
 
-  #include <iostream>
+#include <iostream>
 using namespace std;
- 
-const long long MOD = 1000000007;
  
 int main() {
     long long n;
     cin >> n;
-    cout<<n/5;
+ 
+    long long count = 0;
+ 
+    while (n > 0) {
+        n /= 5;
+        count += n;
+    }
+ 
+    cout << count;
+ 
+    return 0;
 }
