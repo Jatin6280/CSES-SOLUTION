@@ -7,6 +7,7 @@ My accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), au
 
 | Problem | Category | Solutions |
 | :--- | :--- | :--- |
+| Trailing Zeros | Introductory Problems | [ C++ ](https://github.com/Jatin6280/CSES-SOLUTION/blob/main/Introductory_Problems/Trailing_Zeros/Trailing_Zeros.cpp) |
 | Two Knights | Introductory Problems | [ C++ ](https://github.com/Jatin6280/CSES-SOLUTION/blob/main/Introductory_Problems/Two_Knights/Two_Knights.cpp) |
 | Number Spiral | Introductory Problems | [ C++ ](https://github.com/Jatin6280/CSES-SOLUTION/blob/main/Introductory_Problems/Number_Spiral/Number_Spiral.cpp) |
 | Permutations | Introductory Problems | [ C++ ](https://github.com/Jatin6280/CSES-SOLUTION/blob/main/Introductory_Problems/Permutations/Permutations.cpp) |
