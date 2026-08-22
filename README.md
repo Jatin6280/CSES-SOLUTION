@@ -7,6 +7,7 @@ My accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), au
 
 | Problem | Category | Solutions |
 | :--- | :--- | :--- |
+| Chessboard and Queens | Introductory Problems | [ C++ ](https://github.com/Jatin6280/CSES-SOLUTION/blob/main/Introductory_Problems/Chessboard_and_Queens/Chessboard_and_Queens.cpp) |
 | Apple Division | Introductory Problems | [ C++ ](https://github.com/Jatin6280/CSES-SOLUTION/blob/main/Introductory_Problems/Apple_Division/Apple_Division.cpp) |
 | Creating Strings | Introductory Problems | [ C++ ](https://github.com/Jatin6280/CSES-SOLUTION/blob/main/Introductory_Problems/Creating_Strings/Creating_Strings.cpp) |
 | Coin Piles | Introductory Problems | [ C++ ](https://github.com/Jatin6280/CSES-SOLUTION/blob/main/Introductory_Problems/Coin_Piles/Coin_Piles.cpp) |
